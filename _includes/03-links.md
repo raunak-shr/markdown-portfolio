@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](https://github.com/raunak-shr)
+[ 1st Project](https://raunak-shr.github.io/github-slideshow/#/) 
+[ 2nd Project](https://raunak-shr.github.io/markdown-portfolio/)
